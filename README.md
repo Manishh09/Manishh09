@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 - 👋 I'm Manish Boge
-- 🔭 I'm currently working on Angular Developement Projects
+- 🔭 I'm currently working on Angular Development Projects
 - 👯 I'm looking to collaborate on Angular/ React Projects
 - 💬 Ask me about Angular, RxJs, Angular Material, TypeScript
 - 🧠 I'm expanding my skills into:
