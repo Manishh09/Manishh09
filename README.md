@@ -36,11 +36,11 @@
 - [angular-design-patterns](https://github.com/Manishh09/angular-design-patterns)  Learning Design Patterns - Usecases in Angular Applications
 
 **React**
-- [reactjs-fundamentals-v16](https://github.com/Manishh09/reactjs-fundamentals) My learning throught react course by Codeevolution YT Channel
+- [reactjs-fundamentals-v16](https://github.com/Manishh09/reactjs-fundamentals) My learning through React course by Codeevolution YT Channel
 
 **Interview Preparation**
 - [javascript-interview-prep](https://github.com/Manishh09/javascript-interview-prep) Refer for JavaScript Conceptual Questions
-- [javascript-challenges](https://github.com/Manishh09/javascript-challenges) For machine coding questions (covers most frequently asked Qs)
+- [javascript-challenges](https://github.com/Manishh09/javascript-challenges) Refer for Machine Coding questions (covers most frequently asked Qs)
   
 
  
