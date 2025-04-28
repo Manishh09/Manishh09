@@ -42,6 +42,7 @@
 - [javascript-interview-prep](https://github.com/Manishh09/javascript-interview-prep) Refer for JavaScript Conceptual Questions
 - [javascript-challenges](https://github.com/Manishh09/javascript-challenges) Refer for Machine Coding questions (covers most frequently asked Qs)
 - [typescript-interview-prep](https://github.com/Manishh09/typescript-interview-prep) Refer for frequently asked concepts in TypeScript
+- [html-interview-prep](https://github.com/Manishh09/html-interview-prep) Refer for frequently asked concepts in HTML / HTML5
 
  
 
