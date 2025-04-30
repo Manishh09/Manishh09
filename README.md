@@ -44,7 +44,8 @@
 - [typescript-interview-prep](https://github.com/Manishh09/typescript-interview-prep) Refer for frequently asked concepts in TypeScript
 - [html-interview-prep](https://github.com/Manishh09/html-interview-prep) Refer for frequently asked concepts in HTML / HTML5
 
- 
+**Challenges**
+- [angular-challenges](https://github.com/Manishh09/angular-challenges) Refer for designing a complete system for e.g loading / notification etc
 
 ## 📊 GitHub Stats
 
