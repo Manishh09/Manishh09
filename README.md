@@ -15,7 +15,7 @@
 - 📫 How to reach me:
 
    - Mail: manish.boge@outlook.com
-   - LinkedIn: https://www.linkedin.com/in/manish-boge-97b024129/
+   - LinkedIn: https://www.linkedin.com/in/manishboge
 
 
 ## 🛠️ Tech Stack
